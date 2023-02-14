@@ -1,0 +1,99 @@
+Java
+Python
+PHP
+
+
+Java
+
+C++, C , Python : System Level Programming  System Design/ Softwares, Low Level Language
+
+Java, Python , PHP, Ruby and Rails : Application Oriented , High Level Language
+
+Java is used 3 billion software 
+
+Java:
+OS meaning 1 platform 
+Mobile Applications, Desktop and Web Application
+
+Code a1 time use anywhere
+Java is having own virtual machine 
+
+1. Platform Independent
+
+OS: Windows, Linux, Mac OS : Platform
+
+Java: Platform Independent
+
+JVM : Java Virtual Machine
+
+JRE : Java Runtime Env
+
+JVM is part of JRE
+
+JDK : Java Development Kit
+
+JRE is part of JDK
+
+
+Java Features:
+1. Platform Independent
+2. OOPS
+3. Multi Threading
+4. Secure
+5. Robust
+
+Java -> .class (Bytecode)
+
+1. Features of Java
+2. DIfference betn JVM, JRE and JDK
+3. High and Low Level Language difference
+4. HOw java is platform independent
+5. How java is secure
+6. Tell me architetcure of java
+
+
+Application layer => 
+
+
+Network Layer 
+
+H/W Layer / System Level  => C/ C++
+
+
+Student
+id 1,2,3
+name
+address
+contact
+
+
+Java Application
+
+JVM(Java Virtual Machine)
+Windows/ MAC / Linux
+
+Diff betn JVM, JRE and JDK
+
+JVM is part of JRE = Java Runtime Env
+
+liberies
+
+JDK = Java Development Kit
+
+JVM :-
+COnvert java source code to byte code and to Machine Level Language
+
+public void 
+
+OOPS
+Real World Entity = Object
+
+Topics Covered:
+1.High and Low Level Language
+2.Introduction and features of java
+3.How platform independent concept of java
+4.Diff betn JRE, JVM and JDK
+5.Installation of java and jdk and tested with basic program
+
+
+
